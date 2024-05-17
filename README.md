@@ -1,8 +1,8 @@
 **FREE RDP/VPS FOR FREE ALL TIME MADE FOR EGYPT BY DXD MASA**
 
 > MY WEBSITE FOR ALL TOOL [DXD PRO](https://dxdpro.blogspot.com/).
-> DOWNLOAD NOMACHINE FOR RUN [RDP / VPS ](https://www.nomachine.com/).
-> SIGN UP FOR NGROK TO RUN [RDP / VPS ](https://dashboard.ngrok.com/).
+> DOWNLOAD NOMACHINE FOR RUN [NOMACHINE ](https://www.nomachine.com/).
+> SIGN UP FOR NGROK TO RUN [NGROK ](https://dashboard.ngrok.com/).
 
 
 ### How to Install
