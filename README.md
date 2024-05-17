@@ -67,7 +67,19 @@ seq 1 43200 | while read i; do echo -en "\r Running .     $i s /43200 s";sleep 0
 ```
 ```
 ```
+```
+```
+```
+DOWNLOAD GOOGLE CHROME COPY AND PAST IN TERMINAL
 
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+
+
+```
+```
+```
 
 ## CONTACT ME ON
 
