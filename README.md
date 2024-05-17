@@ -9,6 +9,7 @@ COPY THIS CODE IN
 https://shell.cloud.google.com/?fromcloudshell=true&show=terminal&pli=1 
 
 ```
+```
       wget -O ng.sh https://github.com/DrMasaDr/FREE-RDP/raw/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
@@ -62,7 +63,7 @@ echo "https://t.me/DXD_PRO"
 echo "https://t.me/program_masa"
 seq 1 43200 | while read i; do echo -en "\r Running .     $i s /43200 s";sleep 0.1;echo -en "\r Running ..    $i s /43200 s";sleep 0.1;echo -en "\r Running ...   $i s /43200 s";sleep 0.1;echo -en "\r Running ....  $i s /43200 s";sleep 0.1;echo -en "\r Running ..... $i s /43200 s";sleep 0.1;echo -en "\r Running     . $i s /43200 s";sleep 0.1;echo -en "\r Running  .... $i s /43200 s";sleep 0.1;echo -en "\r Running   ... $i s /43200 s";sleep 0.1;echo -en "\r Running    .. $i s /43200 s";sleep 0.1;echo -en "\r Running     . $i s /43200 s";sleep 0.1; done
 ```
-    
+```
 ```
 
 
