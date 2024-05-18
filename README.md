@@ -86,7 +86,7 @@ SETUP EXE FILE ON RDP/VPS
 
 PAST THIS CODE IN TERMINAL
 
-sudo apt install wine
+apt-get install wine32:i386
 AND 
 wine the file exe .exe
 ```
