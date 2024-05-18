@@ -76,7 +76,6 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
-
 ```
 ```
 ```
@@ -88,13 +87,24 @@ SETUP EXE FILE ON RDP/VPS
 PAST THIS CODE IN TERMINAL
 
 sudo apt install wine
-
 AND 
 wine the file exe .exe
 ```
 ```
 ```
+```
+```
+```
+IF YOU GET ANY PROBLEM
 
+PAST THIS CODE IN TERMINAL
+
+
+sudo apt-get update -y
+apt-get full-upgrade -y
+```
+```
+```
 ## CONTACT ME ON
 
 1.<a href="MY FACEBOOK">https://www.facebook.com/DXDMASA/</a> <br>
