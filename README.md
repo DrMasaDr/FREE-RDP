@@ -80,6 +80,20 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
 ```
 ```
+```
+```
+```
+SETUP EXE FILE ON RDP/VPS
+
+PAST THIS CODE IN TERMINAL
+
+sudo apt install wine
+
+AND 
+wine the file exe .exe
+```
+```
+```
 
 ## CONTACT ME ON
 
