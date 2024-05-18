@@ -99,7 +99,7 @@ IF YOU GET ANY PROBLEM
 
 PAST THIS CODE IN TERMINAL
 
-
+apt-get install wine32:i386
 sudo apt-get update -y
 apt-get full-upgrade -y
 ```
